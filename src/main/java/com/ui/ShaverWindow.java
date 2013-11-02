@@ -15,6 +15,7 @@ import com.shaver.Shaver;
 import com.shaver.ShaverHead;
 
 // comment after fork
+// comment from forked repo
 // comment from master
 // comment from branch2
 // comment from branch1
