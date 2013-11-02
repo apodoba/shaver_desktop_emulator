@@ -14,6 +14,7 @@ import com.shaver.Battery;
 import com.shaver.Shaver;
 import com.shaver.ShaverHead;
 
+// comment from forked repo
 // comment from master
 // comment from branch2
 // comment from branch1
