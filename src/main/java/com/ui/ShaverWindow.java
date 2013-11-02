@@ -15,6 +15,7 @@ import com.shaver.Shaver;
 import com.shaver.ShaverHead;
 
 // comment from master
+// comment from branch1
 public class ShaverWindow extends JFrame {
 
 	private static final long serialVersionUID = 7930087728275607544L;
